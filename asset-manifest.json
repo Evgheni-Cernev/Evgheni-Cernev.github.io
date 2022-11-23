@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Evgheni-Cernev.github.io/static/css/main.1e8a34fb.chunk.css",
-    "main.js": "/Evgheni-Cernev.github.io/static/js/main.a7d1ec94.chunk.js",
-    "main.js.map": "/Evgheni-Cernev.github.io/static/js/main.a7d1ec94.chunk.js.map",
-    "runtime-main.js": "/Evgheni-Cernev.github.io/static/js/runtime-main.1883843f.js",
-    "runtime-main.js.map": "/Evgheni-Cernev.github.io/static/js/runtime-main.1883843f.js.map",
-    "static/js/2.6c6d2eb3.chunk.js": "/Evgheni-Cernev.github.io/static/js/2.6c6d2eb3.chunk.js",
-    "static/js/2.6c6d2eb3.chunk.js.map": "/Evgheni-Cernev.github.io/static/js/2.6c6d2eb3.chunk.js.map",
-    "index.html": "/Evgheni-Cernev.github.io/index.html",
-    "static/css/main.1e8a34fb.chunk.css.map": "/Evgheni-Cernev.github.io/static/css/main.1e8a34fb.chunk.css.map",
-    "static/js/2.6c6d2eb3.chunk.js.LICENSE.txt": "/Evgheni-Cernev.github.io/static/js/2.6c6d2eb3.chunk.js.LICENSE.txt"
+    "main.css": "/forms.github.io/static/css/main.1e8a34fb.chunk.css",
+    "main.js": "/forms.github.io/static/js/main.a7d1ec94.chunk.js",
+    "main.js.map": "/forms.github.io/static/js/main.a7d1ec94.chunk.js.map",
+    "runtime-main.js": "/forms.github.io/static/js/runtime-main.a5c19f87.js",
+    "runtime-main.js.map": "/forms.github.io/static/js/runtime-main.a5c19f87.js.map",
+    "static/js/2.6c6d2eb3.chunk.js": "/forms.github.io/static/js/2.6c6d2eb3.chunk.js",
+    "static/js/2.6c6d2eb3.chunk.js.map": "/forms.github.io/static/js/2.6c6d2eb3.chunk.js.map",
+    "index.html": "/forms.github.io/index.html",
+    "static/css/main.1e8a34fb.chunk.css.map": "/forms.github.io/static/css/main.1e8a34fb.chunk.css.map",
+    "static/js/2.6c6d2eb3.chunk.js.LICENSE.txt": "/forms.github.io/static/js/2.6c6d2eb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1883843f.js",
+    "static/js/runtime-main.a5c19f87.js",
     "static/js/2.6c6d2eb3.chunk.js",
     "static/css/main.1e8a34fb.chunk.css",
     "static/js/main.a7d1ec94.chunk.js"
